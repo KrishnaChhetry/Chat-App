@@ -1,6 +1,17 @@
-# Real-time Chat App
+# 💬 Real-time Chat App
 
-A real-time 1:1 chat application built with React Native (frontend) and Node.js (Express + Socket.IO) backend with MongoDB database.
+A complete real-time 1:1 chat application built with React Native (frontend) and Node.js (Express + Socket.IO) backend with MongoDB database.
+
+[![React Native](https://img.shields.io/badge/React%20Native-0.72.6-blue.svg)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7.2-black.svg)](https://socket.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-green.svg)](https://mongodb.com/)
+
+## 🚀 Live Demo
+
+- **Backend API**: http://localhost:3000/api/health
+- **Socket.IO**: http://localhost:3000
+- **Mobile App**: Run on iOS/Android simulator or device
 
 ## Features
 
