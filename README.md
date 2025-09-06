@@ -2,10 +2,6 @@
 
 A complete real-time 1:1 chat application built with React Native (frontend) and Node.js (Express + Socket.IO) backend with MongoDB database.
 
-[![React Native](https://img.shields.io/badge/React%20Native-0.72.6-blue.svg)](https://reactnative.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7.2-black.svg)](https://socket.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-green.svg)](https://mongodb.com/)
 
 ## 🚀 Live Demo
 
@@ -23,24 +19,7 @@ A complete real-time 1:1 chat application built with React Native (frontend) and
 - **Persistent Storage**: Messages stored in MongoDB
 - **Modern UI**: Clean and intuitive interface
 
-## Project Structure
 
-```
-Chat App/
-├── mobile/          # React Native app
-│   └── ChatApp/
-│       ├── src/
-│       │   ├── context/     # Auth & Socket contexts
-│       │   ├── navigation/  # App navigation
-│       │   ├── screens/     # App screens
-│       │   └── services/    # API service
-│       └── ...
-└── server/          # Node.js backend
-    ├── models/      # Database models
-    ├── routes/      # API routes
-    ├── middleware/  # Auth middleware
-    └── ...
-```
 
 ## Prerequisites
 
